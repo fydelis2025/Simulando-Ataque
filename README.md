@@ -2,30 +2,30 @@
 
 Bem-vindo ao meu portfólio de projetos em Segurança da Informação.
 
-## 🚀 Projetos
+## Projetos
 
-### 🔐 Brute Force Lab
+### Brute Force Lab
 
 Simulação de ataques com Kali Linux e Medusa
-➡️ Demonstra exploração de credenciais fracas
+Demonstra exploração de credenciais fracas
 
 ---
 
-### 🎣 Phishing Awareness Lab
+### Phishing Awareness Lab
 
 Simulação educacional de ataque de phishing
-➡️ Foco em conscientização e prevenção
+Foco em conscientização e prevenção
 
 ---
 
-### 🔍 Port Scanner em Python
+### Port Scanner em Python
 
 Scanner de portas desenvolvido do zero
-➡️ Enumeração de serviços e análise de rede
+Enumeração de serviços e análise de rede
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver habilidades práticas em:
 
@@ -36,6 +36,6 @@ Desenvolver habilidades práticas em:
 
 ---
 
-## 📫 Contato
+## Contato
 
 LinkedIn: (https://www.linkedin.com/in/adiel-fontes-896325274/)
