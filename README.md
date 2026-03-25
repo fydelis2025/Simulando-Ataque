@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio | Adiel Fontes
+# Cybersecurity Portfolio | Adiel Fontes
 
 Bem-vindo ao meu portfólio de projetos em Segurança da Informação.
 
